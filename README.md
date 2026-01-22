@@ -1,1 +1,1 @@
-# DisenID: Enhanced-Generative-Data-Augmentation-for-Semantic-Segmentation-via-Stronger-Guidance
+# DisenID: Identity-Preserving Disentangled Personalization for Multi-Subject Generation
